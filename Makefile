@@ -1,12 +1,12 @@
 SRC = unity/unity.c\
-src/prime_number.c\
-test/test_prime_number.c
+src/waste.c\
+test/test_waste.c
 
 INC = -Iunity\
 -Iinc\
 -Itest
 
-PROJECT_NAME = PRIMENUMBER.out
+PROJECT_NAME = WASTE.out
 
 # Output directory
 BUILD = build
